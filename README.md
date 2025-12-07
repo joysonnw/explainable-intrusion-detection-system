@@ -80,7 +80,7 @@ The frontend expects the backend to run on Port 5000
 uvicorn app:app --host 0.0.0.0 --port 5000
 ```
 
-###Step 2: Start the Frontend
+### Step 2: Start the Frontend
 
 ```bash
 # Inside the /frontend directory
