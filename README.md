@@ -69,6 +69,8 @@ cd frontend
 npm install
 ```
 
+---
+
 ## Running the Application
 
 ### Step 1: Start the Backend
