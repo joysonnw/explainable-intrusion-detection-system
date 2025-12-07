@@ -1,5 +1,7 @@
 # XIDS - Explainable Intrusion Detection System
 
+---
+
 XIDS is a full-stack security web application designed to detect network intrusions using Ensemble Machine Learning models. It goes beyond simple detection by providing **Explainable AI (XAI)** insights using SHAP (SHapley Additive exPlanations), helping security analysts understand *why* a specific traffic flow was flagged as an attack.
 
 ## Features
