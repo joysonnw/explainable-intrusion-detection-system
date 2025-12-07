@@ -7,7 +7,7 @@ XIDS is a full-stack security web application designed to detect network intrusi
 * **Ensemble Detection:** Combines Decision Trees, Random Forest, XGBoost, and LightGBM for high-accuracy threat detection.
 * **Explainable AI (XAI):** Uses SHAP values to visualize feature contributions (e.g., why a packet was classified as DDoS vs Benign).
 * **Interactive Threat Dashboard:** Visualizes attack distribution and status from uploaded data.
-* **Traffic Simulation:** "Live" replay mode to simulate traffic analysis row-by-row.
+* **Simulation Mode:** Processes traffic row-by-row to mimic live monitoring.
 * **PDF Reporting:** Auto-generates detailed attack summary reports.
 * **AI Chatbot:** Built-in assistant to answer questions about security concepts and attack types.
 
